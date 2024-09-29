@@ -5,7 +5,9 @@ Recuerde reconstruir los módulos de Node
 ````
 npm install
 ````
-Y para reconstruir la carpeta dist
+01
++-
+-ist
 ````
 npm run build
 ````
